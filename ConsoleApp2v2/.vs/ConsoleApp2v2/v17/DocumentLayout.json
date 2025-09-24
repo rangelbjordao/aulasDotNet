@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Rangel\\Documents\\GitHub\\aulasDotNet\\ConsoleApp2v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A519F6-ED66-4BD9-880E-19ACD4554B94}|ConsoleApp2v2\\ConsoleApp2v2.csproj|c:\\users\\rangel\\documents\\github\\aulasdotnet\\consoleapp2v2\\consoleapp2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A519F6-ED66-4BD9-880E-19ACD4554B94}|ConsoleApp2v2\\ConsoleApp2v2.csproj|solutionrelative:consoleapp2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rangel\\Documents\\GitHub\\aulasDotNet\\ConsoleApp2v2\\ConsoleApp2v2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2v2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
